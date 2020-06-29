@@ -1,0 +1,48 @@
+﻿@model Forum.Web.Models.Reply.PostReplyModel
+
+<div class="jumbotron jumbotron-fluid">
+
+    <h1 class="display-4">Create reply to @Model.PostTitle!</h1>
+
+    <p class="lead">Please take some moment see current ones.</p>
+    <a class="btn btn-back" role="button" sp-controller="Forum" asp-controller="Forum" asp-action="Topic" asp-route-id="@Model.ForumId">Go back</a>
+    <hr class="my-4">
+    <p>Please fill in the below fields.</p>
+
+    @if (!Context.User.Identity.IsAuthenticated)
+    {
+        <div class="alert alert-danger container-fluid" role="alert">
+            <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+            <span class="sr-only">Error:</span>
+            Post cannot be crated!
+            You must be a <a asp-controller="Account" asp-action="Register">registered member</a>
+        </div>
+    }
+
+    @if (Context.User.Identity.IsAuthenticated)
+    {
+
+        <div class="alert alert-info container-fluid" role="alert">
+            <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+            <span class="sr-only">Infor:</span>
+            You're submitting this post as <span class="authorBlockName">@Model.AuthorName</span>
+        </div>
+
+        <form asp-action="AddReply" method="post" id="createForumForm" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="FormControlTextarea1" asp-for="ReplyContent">Description</label>
+                <textarea class="form-control" id="FormControlTextarea1" rows="3" placeholder="New description" asp-for="ReplyContent"></textarea>
+                <span asp-validation-for="ReplyContent" class="text-danger"></span>
+            </div>
+
+
+
+            <br />
+            <button type="submit" id="registerBtn" class="btn btn-primary">Create</button>
+            <input asp-for="AuthorId" type="hidden" />
+            <input asp-for="PostId" type="hidden" />
+            <input asp-for="ForumName" type="hidden" />
+            <input asp-for="ForumId" type="hidden" />
+        </form>
+    }
+</div>

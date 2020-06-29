@@ -1,0 +1,57 @@
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojResolveAssemblyReference.cache
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojAssemblyReference.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojAssemblyReference.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojAssemblyReference.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\_CiNi\OKNO PW\Subjects\2020_WIOSNA\Projekt zespołowy\_PROJECT\dotnet-forum-starter-master-v3\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+C:\_CiNi\OKNO PW\Subjects\2020_WIOSNA\Projekt zespołowy\_PROJECT\dotnet-forum-starter-master-v3\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\_CiNi\OKNO PW\Subjects\2020_WIOSNA\Projekt zespołowy\_PROJECT\dotnet-forum-starter-master-v3\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\_CiNi\OKNO PW\Subjects\2020_WIOSNA\Projekt zespołowy\_PROJECT\dotnet-forum-starter-master-v3\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojAssemblyReference.cache
+C:\_CiNi\OKNO PW\Subjects\2020_WIOSNA\Projekt zespołowy\_PROJECT\dotnet-forum-starter-master-v3\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+C:\_CiNi\OKNO PW\Subjects\2020_WIOSNA\Projekt zespołowy\_PROJECT\dotnet-forum-starter-master-v3\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+C:\_CiNi\OKNO PW\Subjects\2020_WIOSNA\Projekt zespołowy\_PROJECT\dotnet-forum-starter-master-v3\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+C:\_CiNi\OKNO PW\Subjects\2020_WIOSNA\Projekt zespołowy\_PROJECT\dotnet-forum-starter-master-v3\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojAssemblyReference.cache
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.deps.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.csprojAssemblyReference.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\obj\Debug\netcoreapp2.0\Forum.Data.pdb

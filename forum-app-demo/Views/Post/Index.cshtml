@@ -1,0 +1,92 @@
+﻿@model Forum.Web.Models.Post.PostIndexModel
+
+    <div class="jumbotron jumbotron-fluid">
+
+        <h1 class="display-4">
+            Welcome to @Model.Title!
+        </h1>
+
+        <hr class="my-4">
+        @*<p class="forumLogo" style="background-image: url(@Model.Forum.ImageUrl); background-size:100%"></p>*@
+        <p class="lead">Please take some moment before you post something, keep posts friendly and on-topic.</p>
+
+        <div class="alert alert-info container-fluid" role="alert">
+            <span class="glyphicon glyphicon-education" aria-hidden="true"></span>
+            <span class="sr-only">Infor:</span>
+            Please read the <a href="#" class="alert-link">Forum Guidelines</a> before creating a new post.
+        </div>
+
+        @if (!Context.User.Identity.IsAuthenticated)
+        {
+            <span>You must be a <a asp-controller="Account" asp-action="Register">registered member</a> to create a new post.</span>
+        }
+
+        @if (Context.User.Identity.IsAuthenticated)
+        {
+            <a class="btn btn-success" role="button" asp-controller="Reply" asp-action="Create" asp-route-id="@Model.Id">Reply</a>
+        }
+        <a class="btn btn-back" role="button" asp-controller="Forum" asp-action="Topic" asp-route-id="@Model.ForumId">Go back</a>
+
+        <hr class="my-4">
+        <div class="alert alert-warning container-fluid" role="alert">
+            <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+            <span class="sr-only">Infor:</span>
+            This is the orginal post
+        </div>
+        <div class="alert alert-warning container-fluid" role="alert">
+            
+                <div class="col-md-2">
+                    <div class="postAuthorImage" style="background-image: url(@Model.AuthorImageUrl); background-size: 100%;"></div>
+                    <a asp-controller="Profile" asp-action="Detail" asp-route-id="@Model.AuthorId">
+                        <strong>@Model.AuthorName</strong>
+                    </a> (<span class="postAuthorRating">@Model.AuthorRating</span>) <br />
+                    <span class="postDate">@Model.Date</span>
+                    @if (@Model.IsAuthorAdmin)
+                    {
+                        <span class="isAdmin smaller">Admin</span>
+                    }
+                </div>
+                <div class="col-md-9 border-left">
+                    <div class="postContent">
+                        @Html.Raw(@Model.PostContent)
+                    </div>
+                </div>
+            
+        </div>
+            <hr class="my-4">
+            @if (Model.Replies.Any())
+            {
+                foreach (var reply in Model.Replies)
+                {
+                <div class="alert alert-light container-fluid" role="alert">
+
+                    <div class="col-md-2">
+                        <div class="postAuthorImage" style="background-image: url(@reply.AuthorImageUrl); background-size: 100%;"></div>
+                        <a asp-controller="Profile" asp-action="Detail" asp-route-id="@reply.AuthorId">
+                            <strong>@reply.AuthorName</strong>
+                        </a> (<span class="postAuthorRating">@reply.AuthorRating</span>) <br />
+                        <span class="postDate">@reply.Date</span>
+                        @if (@reply.IsAuthorAdmin)
+                        {
+                            <span class="isAdmin profileLabel smaller">Admin</span>
+                        }
+                    </div>
+                    <div class="col-md-9 border-left">
+                        <div class="postContent">
+                            @Html.Raw(@reply.ReplyContent)
+                        </div>
+                    </div>
+
+                </div>
+                }
+            }
+            else
+            {
+                <div class="alert alert-danger container-fluid" role="alert">
+                    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+                    <span class="sr-only">Error:</span>
+                    There are no repies to this post yet!
+                    Why not <a asp-controller="Reply" asp-action="Create" asp-route-id="@Model.Id"><span>Create One?</span></a>
+                </div>
+            }
+        </div>

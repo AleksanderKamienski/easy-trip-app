@@ -1,0 +1,104 @@
+﻿@model Forum.Web.Models.Group.GroupListingModel
+
+
+    <div class="jumbotron jumbotron-fluid">
+
+        <h1 class="display-4">Welcome to @Model.Name group!</h1>
+        @if (@Model.AdminId != @Model.CurrentUserid)
+        {
+            <div class="alert alert-info container-fluid" role="alert">
+                <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                <span class="sr-only">Info:</span>
+                You are a basic user of this group
+            </div>
+        }
+        @if (@Model.AdminId == @Model.CurrentUserid)
+        {
+            <div class="alert alert-info container-fluid" role="alert">
+                <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                <span class="sr-only">Info:</span>
+                You are a Admin of this group
+            </div>
+        }
+        <p class="lead">Please take some moment to see current forums.</p>
+        <a class="btn btn-back" role="button" asp-controller="Group" asp-action="Index">Go back</a>
+        <a class="btn btn-success" role="button" asp-controller="Forum" asp-action="Create" asp-route-id="@Model.Id">New forum</a>
+        <hr class="my-4">
+        <p>Chose the forum that you are intersted in.</p>
+
+        @if (!@Model.Forums.Any())
+        {
+            <div class="alert alert-danger container-fluid" role="alert">
+                <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+                <span class="sr-only">Error:</span>
+                There are no forums yet!
+                Why not <a asp-controller="Forum" asp-action="Create" asp-route-id="@Model.Id"><span>Create One?</span></a>
+            </div>
+        }
+
+        else
+        {
+            <table class="table table-striped table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col" class="col-auto">Name</th>
+                        <th scope="col" class="col-auto">Description</th>
+                        <th scope="col" class="col-1">Logo</th>
+                        <th scope="col" class="col-1"></th>
+                        @if (@Model.AdminId == @Model.CurrentUserid)
+                        {
+                            <th scope="col" class="col-1"></th>
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var forum in @Model.Forums)
+                    {
+                        <tr>
+                            <td>
+                                @forum.Title
+                            </td>
+                            <td>
+                                @forum.Description
+                            </td>
+                            <td>
+                                <div class="forumLogo" style="background-image: url(@forum.ImageUrl); background-size:100%"></div>
+                            </td>
+                            <td>
+                                <a class="btn btn-primary" role="button" asp-controller="Forum" asp-action="Topic" asp-route-id="@forum.Id">Enter</a>
+                            </td>
+                            @if (@Model.AdminId == @Model.CurrentUserid)
+                            {
+                                <td>
+                                    <a class="btn btn-danger" role="button" asp-controller="Forum" asp-action="Delete" asp-route-id="@forum.Id">Delete</a>
+                                </td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        }
+
+
+        @if (@Model.AdminId != @Model.CurrentUserid)
+        {
+            <a class="btn btn-danger" role="button" asp-controller="Group" asp-action="Leave" asp-route-id="@Model.Id">Leave Group</a>
+        }
+
+        @if (@Model.AdminId == @Model.CurrentUserid)
+        {
+            <a class="btn btn-danger" role="button" asp-controller="Group" asp-action="Delete" asp-route-id="@Model.Id">Delete Group</a>
+        }
+
+    </div>
+
+
+        
+
+        
+
+        
+
+
+

@@ -1,0 +1,43 @@
+﻿@using Forum.Web.Models.AccountViewModels
+@model Forum.Web.Models.AccountViewModels.RegisterViewModel
+
+    <div class="jumbotron jumbotron-fluid">
+
+        <h1 class="display-4">Create a new account!</h1>
+
+        <p class="lead">Please take some moment see what is needed.</p>
+        <a class="btn btn-back" role="button" asp-area="" asp-controller="Account" asp-action="Login">Go back</a>
+        <hr class="my-4">
+        <p>Please fill in the fields below.</p>
+
+        <form asp-route-returnUrl="@ViewData["ReturnUrl"]" method="post" id="registerForm">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group alert alert-dark">
+                <label asp-for="Username"></label>
+                <input asp-for="Username" class="form-control" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <br />
+            <button type="submit" class="btn btn-success">Register</button>
+        </form>
+
+</div>
+        @section Scripts {
+            @await Html.PartialAsync("_ValidationScriptsPartial")
+        }

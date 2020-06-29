@@ -1,0 +1,92 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model Forum.Web.Models.ApplicationUser.ProfileModel
+
+@inject UserManager<Forum.Data.Models.ApplicationUser> UserManager
+
+@{
+    //var user = UserManager.FindByNameAsync(User.Identity.Name);
+    //var isAdmin = user.Result.IsAdmin;
+}
+
+<div class="jumbotron jumbotron-fluid">
+
+    <h1 class="display-4">Welcome to user details!</h1>
+    <p class="lead">Please take some moment to view the details.</p>
+    <hr class="my-4">
+
+    @if (User.IsInRole("Admin"))
+    {
+        <div class="alert alert-info container-fluid" role="alert">
+            <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+            <span class="sr-only">Info:</span>
+            You are a Admin
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info container-fluid" role="alert">
+            <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+            <span class="sr-only">Info:</span>
+            You are a Basic User
+        </div>
+    }
+
+    @if (User.IsInRole("Admin"))
+    {
+        <form method="post" asp-controller="Profile" asp-action="Deactivate" asp-route-id="@Model.UserId">
+            <div>
+                <button class="btn btn-danger" active="@Model.IsActive">Deactivate User</button>
+            </div>
+        </form>
+    }
+
+
+    @if (Context.User.Identity.IsAuthenticated)
+    {
+
+<div class="row">
+    <div class="col">
+        <div class="thumbnail">
+            <div class="postAuthorImage" style="background-image: url(@Model.ProfileImageUrl); background-size: 100%;"></div>
+            <div class="caption">
+                <p id="userName">User name: <strong>@Model.Username</strong></p>
+                @if (@Model.IsAdmin)
+                {
+                    <span class="isAdmin">Admin</span>
+                }
+
+                <p id="userEmailLabel">Email: @Model.Email</p>
+
+                <span id="userCreatedLabel">Member Since: @Model.DateJoined</span>
+                <br />
+
+                <span id="userActiveLabel">
+                    Status:
+                    @if (!@Model.IsActive)
+                    {
+                        <span class="inactiveUser label label-danger">Inactive</span>
+                    }
+                    else
+                    {
+                        <span class="label label-success">Active</span>
+                    }
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="thumbnail">
+
+            <div class="alert alert-warning align-content-center" role="alert">
+                <h1 class="postAuthorImage glyphicon glyphicon-star" aria-hidden="true"></h1>
+            </div>
+            <div class="caption">
+                <p id="userRating">Current Rating: @Model.UserRating</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+    }
+</div>

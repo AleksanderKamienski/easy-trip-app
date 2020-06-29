@@ -1,0 +1,13 @@
+﻿@model Forum.Web.Models.Group.GroupLeaveModel
+
+<div class="jumbotron jumbotron-fluid">
+
+    <h1 class="display-4">We are sad!</h1>
+
+    <p class="lead">Are you sure you'd like to leave Group @Model.Name?</p>
+
+    <hr class="my-4">
+    <p>Please chose your option.</p>
+    <a class="btn btn-danger" role="button" asp-controller="Group" asp-action="ConfirmLeave" asp-route-groupId="@Model.Id">Leave</a>
+    <a class="btn btn-success" role="button" asp-controller="Group" asp-action="Cancel" asp-route-Id="@Model.Id">Cancel</a>
+</div>

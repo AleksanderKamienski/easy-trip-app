@@ -1,0 +1,155 @@
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.deps.json
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.json
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.dev.json
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.pdb
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.pdb
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.pdb
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfoInputs.cache
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfo.cs
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.dll
+C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.Production.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\azureSettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.deps.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.dev.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csprojAssemblyReference.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfoInputs.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfo.cs
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csproj.CopyComplete
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.Production.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\azureSettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.deps.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.dev.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csprojAssemblyReference.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfoInputs.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfo.cs
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csproj.CopyComplete
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2)\dotnet-forum-starter-master\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.Production.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\azureSettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.deps.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.dev.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csprojAssemblyReference.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfoInputs.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfo.cs
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csproj.CopyComplete
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master — kopia (2) — kopia\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.pdb
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.Production.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\azureSettings.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\bower.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.deps.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.dev.json
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.dll
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.pdb
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.dll
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.dll
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.dll
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.pdb
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.pdb
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csprojAssemblyReference.cache
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfoInputs.cache
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfo.cs
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csproj.CopyComplete
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.dll
+D:\Wszystko\OKNO\Projekt zespołowy\strona\dotnet-forum-starter-master-v3\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.Production.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\azureSettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.deps.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.runtimeconfig.dev.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Tests.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Web.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\bin\Debug\netcoreapp2.0\Forum.Service.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csprojAssemblyReference.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfoInputs.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.AssemblyInfo.cs
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.csproj.CopyComplete
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Tests\obj\Debug\netcoreapp2.0\Forum.Tests.pdb

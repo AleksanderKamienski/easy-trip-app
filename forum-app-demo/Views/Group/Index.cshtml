@@ -1,0 +1,124 @@
+﻿@model Forum.Web.Models.Group.GroupIndexModel
+
+<div class="jumbotron jumbotron-fluid">
+
+    <h1 class="display-4">Welcome to your groups!</h1>
+    <p class="lead">Please take some moment to view the groups which you are a memeber of.</p>
+    <hr class="my-4">
+    <p>Connect with people within your groups.</p>
+
+
+    @if (!@Model.GroupUser.Any())
+    {
+        <div class="alert alert-danger container-fluid" role="alert">
+            <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+            <span class="sr-only">Error:</span>
+            You are not a member of any group yet!
+            Why not <a asp-controller="Group" asp-action="Create" asp-route-Id="@Model.UserId"><span>Create One?</span></a>
+        </div>
+    }
+
+    else //if (@Model.GroupUser.Any())
+    {
+
+        <table class="table table-striped table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col" class="col-auto">Name</th>
+                    <th scope="col" class="col-auto">Description</th>
+                    <th scope="col" class="col-1">Logo</th>
+                    <th scope="col" class="col-1"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var group in Model.GroupUser)
+                {
+                    <tr>
+                        <td>
+                            @group.Name
+                        </td>
+                        <td>
+                            @group.Description
+                        </td>
+                        <td>
+                            <div class="forumLogo" style="background-image: url(@group.ImageUrl); background-size:100%"></div>
+                        </td>
+                        <td>
+                            <a class="btn btn-primary" role="button"
+                               asp-controller="Group" asp-action="ChosenGroupAsync" asp-route-id="@group.Id">Enter</a>
+                        </td>
+                    </tr>
+                }
+
+                @foreach (var group in @Model.GroupsAdmin)
+                {
+                    <tr>
+                        <td>
+                            @group.Name
+                        </td>
+                        <td>
+                            @group.Description
+                        </td>
+                        <td>
+                            <div class="forumLogo" style="background-image: url(@group.ImageUrl); background-size:100%"></div>
+                        </td>
+                        <td>
+
+                            <a class="btn btn-primary" role="button"
+                               asp-controller="Group" asp-action="ChosenGroupAsync" asp-route-id="@group.Id">Enter</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    }
+    <p class="lead">
+        <a class="btn btn-primary" role="button"
+           asp-controller="Group" asp-action="Create" asp-route-Id="@Model.UserId">Create Group</a>
+    </p>
+
+</div>
+
+<div class="jumbotron jumbotron-fluid">
+
+    <h1 class="display-4">Other groups</h1>
+    <p class="lead">These are the groups that we higly recommend for you.</p>
+    <hr class="my-4">
+    <p>Connect with other people.</p>
+
+    <table class="table table-striped table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col" class="col-auto">Name</th>
+                <th scope="col" class="col-auto">Description</th>
+                <th scope="col" class="col-1">Logo</th>
+                <th scope="col" class="col-1"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var group in Model.GroupsOther)
+            {
+                <tr>
+                    <td>
+                        @group.Name
+                    </td>
+                    <td>
+                        @group.Description
+                    </td>
+                    <td>
+                        <div class="forumLogo" style="background-image: url(@group.ImageUrl); background-size:100%"></div>
+                    </td>
+                    <td>
+                        <a class="btn btn-success" role="button"
+                           asp-controller="Group" asp-action="Join" asp-route-id="@group.Id">Join</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+
+
