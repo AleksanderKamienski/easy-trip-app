@@ -9,3 +9,14 @@ C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Service\obj\Release\net
 C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Service\obj\Release\netcoreapp2.0\Forum.Service.AssemblyInfo.cs
 C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Service\obj\Release\netcoreapp2.0\Forum.Service.dll
 C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Service\obj\Release\netcoreapp2.0\Forum.Service.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\bin\Release\netcoreapp2.0\Forum.Service.deps.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\bin\Release\netcoreapp2.0\Forum.Service.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\bin\Release\netcoreapp2.0\Forum.Service.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\bin\Release\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\bin\Release\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\obj\Release\netcoreapp2.0\Forum.Service.csprojAssemblyReference.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\obj\Release\netcoreapp2.0\Forum.Service.AssemblyInfoInputs.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\obj\Release\netcoreapp2.0\Forum.Service.AssemblyInfo.cs
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\obj\Release\netcoreapp2.0\Forum.Service.csproj.CopyComplete
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\obj\Release\netcoreapp2.0\Forum.Service.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Service\obj\Release\netcoreapp2.0\Forum.Service.pdb

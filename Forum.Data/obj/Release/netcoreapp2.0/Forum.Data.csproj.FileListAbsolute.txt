@@ -7,3 +7,11 @@ C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Release\netcor
 C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Release\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
 C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Release\netcoreapp2.0\Forum.Data.dll
 C:\Users\Wes\Projects\ProductiveDev\forum-app-demo\Forum.Data\obj\Release\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\bin\Release\netcoreapp2.0\Forum.Data.deps.json
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\bin\Release\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\bin\Release\netcoreapp2.0\Forum.Data.pdb
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\obj\Release\netcoreapp2.0\Forum.Data.csprojAssemblyReference.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\obj\Release\netcoreapp2.0\Forum.Data.AssemblyInfoInputs.cache
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\obj\Release\netcoreapp2.0\Forum.Data.AssemblyInfo.cs
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\obj\Release\netcoreapp2.0\Forum.Data.dll
+C:\Users\majst\Desktop\dotnet-forum-starter-master-v4\Forum.Data\obj\Release\netcoreapp2.0\Forum.Data.pdb
