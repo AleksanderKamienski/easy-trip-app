@@ -8,7 +8,7 @@ Main view:
 
 ![alt text](main.png)
 
-login:
+Login:
 
 ![alt text](login.png)
 
