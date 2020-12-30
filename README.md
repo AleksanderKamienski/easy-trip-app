@@ -4,5 +4,17 @@ https://www.youtube.com/c/WesDoyle/
 This application is available at:
 https://easytrip.azurewebsites.net/
 
+Main view:
 ![alt text](app.png)
 
+Main view:
+![alt text](app.png)
+
+Main view:
+![alt text](app.png)
+
+Main view:
+![alt text](app.png)
+
+Main view:
+![alt text](app.png)
